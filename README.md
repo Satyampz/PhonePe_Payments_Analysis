@@ -26,7 +26,7 @@ The dashboard helps identify customer behavior, popular services, and transactio
 
 ## Dashboard Preview
 
-![Dashboard](Images/Dashboard.png)
+![Dashboard]([Images/Dashboard.png](https://github.com/Satyampz/PhonePe_Transaction_Analysis/blob/main/PhonePe_Analysis_page-0001.jpg))
 
 ---
 
